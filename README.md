@@ -1,4 +1,4 @@
-# contact list by feching API
+# Contact list by Fetching API
   This is a Contact list project of Coding Ninjas made using Reactjs. It uses redux toolkit for managing the store / state. This Project fetches data from https://jsonplaceholder.typicode.com/users API. A user can see, create, update and delete contacts in this projects. All styles are done using TailwindCSS.
 
  Go live to [Contact list.](https://contact-list-rajxode.netlify.app/)
